@@ -1,0 +1,15 @@
+.button-surf {
+  background-color: #89e883;
+  padding: 16px 20px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 800;
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+.button-surf:hover {
+  background-color: #5ad052;
+  color: white;
+  transition: 0.3s;
+}

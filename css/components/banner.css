@@ -1,0 +1,17 @@
+.banner {
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner h1, .banner h2 {
+  margin: 20px;
+  color: white;
+  font-size: 30px;
+  opacity: 80%;
+}
